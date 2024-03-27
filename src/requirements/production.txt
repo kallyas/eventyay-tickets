@@ -1,5 +1,5 @@
 # Functional requirements
-Django==3.2.*
+Django==4.1.*
 djangorestframework==3.12.*
 python-dateutil==2.8.*
 isoweek

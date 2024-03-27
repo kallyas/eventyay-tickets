@@ -35,7 +35,7 @@ automatically and should be provided by any plugin that provides any view.
 A very basic example that provides one view in the admin panel and one view in the frontend
 could look like this::
 
-    from django.conf.urls import url
+    from django.urls import re_path as url
 
     from . import views
 

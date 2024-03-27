@@ -18,7 +18,7 @@ If you want to add a custom view to the control area of an event, just register 
 
 .. code-block:: python
 
-    from django.conf.urls import url
+    from django.urls import re_path as url
 
     from . import views
 

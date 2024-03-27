@@ -1,6 +1,6 @@
 # Functional requirements
 Django==4.1.*
-djangorestframework==3.12.*
+djangorestframework==3.14.*
 python-dateutil==2.8.*
 isoweek
 requests==2.25.0
@@ -39,7 +39,7 @@ django-i18nfield==1.9.*,>=1.9.1
 django-hijack>=2.1.10,<2.2.0
 jsonschema
 openpyxl==3.0.*
-django-oauth-toolkit==1.2.*
+django-oauth-toolkit==2.2.*
 oauthlib==3.1.*
 psycopg2-binary
 django-mysql==4.5.0
